@@ -10,3 +10,7 @@
     <li>Start and finish dates will be available on the website</li>
 </ul>
 </section>
+<hr>
+<section>
+<p><b><i>This repository will store my answers for this event for every time that I attend, if you think that this type of thing sounds cool then you can check it out!</i></b></p>
+</section>
