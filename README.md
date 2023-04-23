@@ -4,7 +4,7 @@
 <section>
 <h2>How does it work?</h2>
 <ul>
-    <li>The event is open to everyone around the world, whether taking CS50 or not, thus teams are welcome to work on the puzzles online or in person (by yourselves or alongside other teams).</li>  
+    <li>The event is open to everyone around the world, whether taking CS50 or not, thus teams are welcome to work on the puzzles online or in person (by themselves or alongside other teams).</li>  
     <li>Puzzles will not require prior programming experience, just logic and smarts. All you'll need is a computer with Internet access, a pen or pencil, and scratch paper</li>  
     <li>CS50 certificates will be awarded to the teams that answer the most questions correctly.</li>
     <li>Start and finish dates will be available on the website</li>
